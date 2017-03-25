@@ -1,0 +1,172 @@
+@charset "utf-8";
+a{
+	color: #000;
+}
+.top{
+	font:15px '宋体';
+	height:26px;
+	background-color: #F5F5F5;
+	border-bottom: 1px solid #D8D8D8;
+}
+.top_page{
+	width: 970px;
+	height: 26px;
+	margin: 0 auto;
+}
+.top_page_1{
+	float: left;
+	line-height: 26px;
+}
+.top_page_2{
+	line-height: 26px;
+	float: right;
+}
+.top_page_2 ul li{
+	float: left;
+	padding-right: 10px;
+}
+.top_page_2 ul li s{
+	width: 15px;
+	height: 12px;
+	background: url(../image/k4.png);
+	display: inline-block;
+	vertical-align: middle;
+}
+.logo{
+	width: 970px;
+	height: 50px;
+	margin: 0 auto;
+}
+.logo_l{
+	height: 50px;
+	width: 240px;
+	background:url(../image/k3.png) -10px 0;
+	float: left;
+	text-indent: -9999px;
+	overflow: hidden;
+}
+.logo_r{
+	height: 28px;
+	float: right;
+	border: 1px solid orange;
+	margin-top: 10px;	border-radius: 2px;
+}
+.logo_r_seach{
+	height: 28px;
+	width: 418px;
+	color: #999999;
+	outline: none;
+
+}
+.logo_r_but{
+	height: 28px;
+	width: 60px;
+	background-color: orange;
+	outline: none;
+}
+.nav{
+	width: 970px;
+	height: 25px;
+	margin:0 auto;
+	font:18px '微软雅黑';
+	border-bottom: 1px solid orange;
+	background-color: #F5F5F5;
+}
+.nav li{
+	float: left;
+	margin-right: 25px;
+
+}
+.nav li:hover{
+	background-color: orange;
+}
+#first{
+	background-color: orange;
+}
+.ban{
+	width: 970px;
+	height: 300px;
+	margin:0 auto;
+	padding-top: 10px;
+}
+.ban_l{
+	width: 200px;
+	height: 300px;
+	float: left;
+	background-color: #F5F5F5;
+}
+.ban_l h2{
+	padding-left: 20px;
+	height: 30px;
+	font-size: 14px;
+	font-weight: bold;
+	background-color: orange;
+	color: white;
+}
+.ban_l li{
+	height: 30px;
+}
+.ban_l s{
+display: inline-block;
+width: 10px;
+height: 10px;
+vertical-align: middle;
+}
+.ban_l a{
+padding-left: 2px;
+}
+
+
+#a{
+	background:url(../image/k6.jpg) -128px -146px;
+}
+#b{
+	background:url(../image/k6.jpg) -128px -185px;
+}
+#c{
+	background:url(../image/k6.jpg) -128px -222px;
+}
+.ban_m{
+	width: 548px;
+	height: 300px;
+	float: left;
+	margin: 0 10px;
+	border: 1px solid red;
+}
+  .wrap{height:300px;
+        width:548px;
+        overflow: hidden;
+        position: relative;}
+  .wrap ul{position:absolute;} 
+  .wrap ul li{height:300px;}
+  .wrap ol{position:absolute;
+           right:5px;
+           bottom:10px;}
+  .wrap ol li{height:20px; width: 20px;
+              background:#ccc;
+              border:solid 1px #666;
+              margin-left:5px;
+              color:#000;
+              float:left;
+              line-height:center;
+              text-align:center;
+              cursor:pointer;}
+  .wrap ol .on{background:#E97305;
+               color:#fff;}
+
+
+.ban_r{
+width: 200px;
+height: 300px;
+float: left;
+background-color: #F5F5F5;
+}
+.ban_r_top,.ban_r_bot{
+	height: 150px;
+}
+.ban_r_top h1{
+	font-weight: bold;
+}
+.ban_r_bot p{
+	text-align: center;
+}
