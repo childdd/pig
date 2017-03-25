@@ -170,3 +170,15 @@ background-color: #F5F5F5;
 .ban_r_bot p{
 	text-align: center;
 }
+
+.material{
+	width: 950px;
+	margin: 0 auto;
+	height: 34px;
+	border-top: 2px solid #C3D7E4;
+	margin-top: 14px;
+	line-height: 34px;
+	background-color: #ECF1F7;
+	font-weight: bold;
+	padding-left:20px;
+}
