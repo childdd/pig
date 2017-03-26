@@ -261,6 +261,26 @@ background-color: #F5F5F5;
 .product_r{
 	width: 230px;
 	height: 345px;
-	background-color: green;
 	float: left;
+}
+.product_r h1{
+	height: 35px;
+	border:1px solid #ccc;
+	line-height:35px;
+	text-align: center;
+	font-weight: bold;
+}
+.product_r li{
+	line-height: 27px;
+}
+
+.link{
+	width: 970px;
+	height: 103px;
+	margin: 0 auto;
+	margin-top: 11px;
+	border-top: 1px solid #ccc;
+	border-bottom: 3px solid #ccc;
+	color: #666666;
+	font-size: 10px;
 }
