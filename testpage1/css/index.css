@@ -2,6 +2,9 @@
 a{
 	color: #000;
 }
+.fl{
+	float: left;
+}
 .top{
 	font:15px '宋体';
 	height:26px;
@@ -181,4 +184,83 @@ background-color: #F5F5F5;
 	background-color: #ECF1F7;
 	font-weight: bold;
 	padding-left:20px;
+}
+
+.product{
+	width: 970px;
+	height: 345px;
+	margin: 0 auto;
+	margin-top: 12px;
+	background-color: #F5F5F5;
+}
+.product_l{
+	width: 738px;
+	height: 343px;
+	border: 1px solid #D8D8D8;
+}
+.product_l_top{	
+	width: 738px;
+	height: 171px;
+}
+.p_l_t_product1{
+	width: 343px;
+	height: 154px;
+	padding: 17px 0 0 26px;
+}
+.product .buy{
+	width: 93px;
+}
+.product .buy .img{
+	height: 100px;border:1px solid #CACACA;
+}
+.product .buy .img s{
+	display: inline-block;
+	width: 91px;
+	height: 62px;
+	background:url(../image/k3.jpg);
+	margin: 10px 4px 0 0;
+}
+.product .buy .btn{
+	width: 93px;
+	height: 26px;
+	background-color: #0A84E3;
+	color: white;
+	margin-top: 15px;
+}
+.product .explain{
+	width: 250px;
+	height: 143px;
+}
+.product .explain .goodWife{
+	font-size: 15px;
+	padding: 0px 0 0 10px;
+}
+.product .explain .auto{
+	font-size: 14px;
+	color: #863E01;
+	padding: 12px 0 0 20px;
+}
+.product .explain .money span{
+	color: red;
+}
+.product .explain .money{
+	padding: 12px 0 0 11px;
+}
+.product .explain .money s{
+	text-decoration: line-through;
+}
+.product .explain .buyed{
+	font-size: 14px;
+	padding: 20px 0 0 11px;
+	border-bottom: 1px solid #ccc;
+}
+.product_l_line{
+	margin: 0 4px;
+	border-bottom: 1px solid black;
+}
+.product_r{
+	width: 230px;
+	height: 345px;
+	background-color: green;
+	float: left;
 }
