@@ -284,3 +284,12 @@ background-color: #F5F5F5;
 	color: #666666;
 	font-size: 10px;
 }
+.foot{
+	width: 970px;
+	height: 103px;
+	margin: 0 auto;
+	margin-top: 11px;
+	color: #666666;
+	font-size: 11px;
+	text-align: center;
+}
